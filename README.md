@@ -1,4 +1,4 @@
-# tests
+# Tests
 
 This code repository was updated using Got (https://gameoftrees.org)
 
